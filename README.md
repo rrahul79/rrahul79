@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Final year Student of IT in  HKBKEC <br>I'm currently leaning Web development<br>Looking opportunity for grow my skill and experience <br>Hobbies - Cooking,  Online Games ..... 
+I'm currently Final year Student of IT in  HKBKCE <br>I'm currently leaning Web development<br>Looking opportunity to grow my skill and experience <br>Hobbies - Cooking,  Online Games and Learning TECH..... 
 
 
 ## 🌐 Socials:
