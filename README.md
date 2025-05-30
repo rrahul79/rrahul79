@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently Final year Student of IT in  HKBKCE <br>I'm currently learning Web development<br>Looking opportunity to grow my skill and experience <br>Hobbies - Cooking,  Online Games and Learning TECH..... 
-
+I am a Data Engineer at Accenture with a strong foundation in cloud-based data solutions, specializing in AWS services such as Redshift, DynamoDB, S3, and Glue. I have experience in developing and optimizing scalable data pipelines, cloud-native applications, and real-time data workflows using Python, SQL, and Pandas. My work has contributed to improving data processing performance and enabling efficient storage and retrieval in large-scale enterprise systems. I hold certifications in AWS Cloud and Cybersecurity, and have a solid academic background in Information Science and Engineering. I am passionate about data-driven technologies and committed to delivering high-quality, secure, and efficient solutions in the field of data engineering.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rrahul_vs/?igshid=MmVlMjlkMTBhMg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-28a250211/) 
